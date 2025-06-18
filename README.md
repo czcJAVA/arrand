@@ -21,7 +21,7 @@
 ### 小程序端运行效果
 - 小程序首页，下单
   
-![contents](picture/picture1.png)----------![contents](picture/picture2.png)
+![contents](picture/picture1.png)--![contents](picture/picture2.png)
 - 查看订单，跑腿费用，订单详情
   
 ![contents](picture/picture3.png)----------![contents](picture/picture11.png)
