@@ -17,11 +17,51 @@
 小程序端：uni-app 支持小程序端
 数据库： MySQL
 模式：前后端分离
-## 3、运行效果
+##  3、运行效果
+### 小程序端运行效果
+- 小程序首页，下单
+  
+![contents](picture/picture1.png)-------------------![contents](picture/picture2.png)
+- 查看订单，跑腿费用，订单详情
+  
+![contents](picture/picture3.png)-------------------![contents](picture/picture11.png)
+- 收支明细、我的余额
+  
+![contents](picture/picture5.png)-------------------![contents](picture/picture6.png)
+- 充值、骑手订单
 
-版本要求：
+![contents](picture/picture7.png)-------------------![contents](picture/picture8.png)
+- 骑手认证，个人资料
+
+![contents](picture/picture9.png)-------------------![contents](picture/picture10.png)
+- 地址管理，
+  
+![contents](picture/picture4.png)
+- 登录注册
+
+![contents](picture/picture12.png)![contents](picture/picture13.png)
+### 后台管理
+-首页
+![contents](picture/picture14.png)
+- 订单管理
+![contents](picture/picture15.png)
+- 地址管理
+![contents](picture/picture16.png)
+- 骑手认证管理
+![contents](picture/picture17.png)
+![contents](picture/picture18.png)
+- 收支明细
+![contents](picture/picture19.png)
+- 用户评论
+![contents](picture/picture20.png)
+- 公告信息评论
+![contents](picture/picture21.png)
+- 管理员信息和用户管理
+![contents](picture/picture22.png)
+![contents](picture/picture23.png)
+
+### 版本要求：
 jdk1.8，MySQL 5.7或者8，node.js环境16版本，maven版本建议3.8及以上，navicat建议不低于16
-数据库表：8张表
 ## 4、项目创新点
 uniapp小程序 + web多端设计 多角色设计
 设计定时任务自动取消过期订单
