@@ -21,13 +21,13 @@
 ### 小程序端运行效果
 - 小程序首页，下单
   
-![contents](picture/picture1.png)-------------------![contents](picture/picture2.png)
+![contents](picture/picture1.png)-----------------![contents](picture/picture2.png)
 - 查看订单，跑腿费用，订单详情
   
-![contents](picture/picture3.png)-------------------![contents](picture/picture11.png)
+![contents](picture/picture3.png)-----------------![contents](picture/picture11.png)
 - 收支明细、我的余额
   
-![contents](picture/picture5.png)-------------------![contents](picture/picture6.png)
+![contents](picture/picture5.png)-----------------![contents](picture/picture6.png)
 - 充值、骑手订单
 
 ![contents](picture/picture7.png)-------------------![contents](picture/picture8.png)
